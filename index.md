@@ -13,4 +13,4 @@ private
 
 继续编译
 
-$$\sum_{i=0}^{\infty}$$
+$\sigma$
